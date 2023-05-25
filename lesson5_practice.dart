@@ -50,6 +50,7 @@ void main() {
       print("autumn");
       break;
     default:
+      print("wrong number");
   }
 
   //fourth task
